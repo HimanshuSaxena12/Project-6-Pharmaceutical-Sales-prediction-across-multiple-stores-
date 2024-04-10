@@ -1,0 +1,13 @@
+2024-04-11 00:18:23,979 - INFO - Pharmaceutical Sales Prediction Project Started.
+2024-04-11 00:18:23,983 - INFO - Loading and preprocessing data...
+2024-04-11 00:18:23,987 - INFO - Seperating Categorical and Numerical Columns
+2024-04-11 00:18:23,990 - INFO - Checking for Outliners and Dealing them
+2024-04-11 00:18:23,993 - INFO - Elements of the columns
+2024-04-11 00:18:23,993 - INFO - Promotion Distribution on Train and Test Data
+2024-04-11 00:18:23,993 - INFO - Checking Sales Behavior as per Holidays
+2024-04-11 00:18:24,001 - INFO - Seasonal Sales and Holiday
+2024-04-11 00:18:24,004 - INFO - Promotional Effect
+2024-04-11 00:18:24,006 - INFO - Store Data Preprocessing
+2024-04-11 00:18:24,006 - INFO - Sales and Customer Distribution Over Time
+2024-04-11 00:18:24,006 - INFO - Average Sales During State Holiday and During Store Open and Closed Time
+2024-04-11 00:18:24,006 - INFO - Average Sales During,Befor and Holiday Period and on a Regular Day
